@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fa2f91f2061729f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "834df7b5575136b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/homepage.md",
-                "mode": "source",
+                "file": "homepage.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/fleeting-note.md",
+                "file": "homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fleeting-note"
+              "title": "Outline of homepage"
             }
           },
           {
@@ -179,13 +179,15 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": true,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7a1f250b42c2976c",
   "lastOpenFiles": [
-    "templates/homepage.md",
-    "templates/fleeting note.md",
+    "templates/zettel-template.md",
+    "01 fleeting notes/202510231222 – Тестовая заметка.md",
+    "homepage.md",
+    "templates/Untitled.md",
     "03 literature notes",
     "202510211130 – test.md",
     "02 permanent notes",

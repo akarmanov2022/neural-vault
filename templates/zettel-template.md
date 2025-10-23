@@ -5,7 +5,7 @@ const folder = "01 fleeting notes";
 await tp.file.rename(filename);
 %>---
 id: <% tp.date.now("YYYYMMDDHHmmss") %>
-tags: [fleeting]
+tags: []
 aliases: []
 ---
 # <% title %>

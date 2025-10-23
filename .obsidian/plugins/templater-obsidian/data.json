@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "01 fleeting notes",
-      "template": "templates/fleeting-note.md"
+      "template": "templates/zettel-template.md"
     }
   ],
   "enable_file_templates": false,
@@ -28,9 +28,9 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "templates/fleeting-note.md"
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    "templates/zettel-template.md"
   ],
-  "startup_templates": [],
   "intellisense_render": 1
 }

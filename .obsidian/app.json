@@ -1,8 +1,8 @@
 {
   "livePreview": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "newFileFolderPath": "attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 fleeting notes",
   "attachmentFolderPath": "attachments",
   "userIgnoreFilters": [
     "attachments/",
