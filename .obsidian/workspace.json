@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/fleeting note.md",
+                "file": "homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fleeting note"
+              "title": "Backlinks for homepage"
             }
           },
           {
@@ -174,17 +174,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": true,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": true
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a1f250b42c2976c",
+  "active": "9a608bf6ba3baef0",
   "lastOpenFiles": [
-    "templates/zettel-template.md",
+    "templates/202510231229 – null.md",
     "01 fleeting notes/202510231222 – Тестовая заметка.md",
     "homepage.md",
     "templates/Untitled.md",
