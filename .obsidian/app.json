@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "attachments",
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    "attachments/",
+    "templates/"
+  ]
+}
