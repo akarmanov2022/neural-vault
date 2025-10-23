@@ -30,7 +30,7 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],
   "startup_templates": [
-    "templates/zettel-template.md"
+    ""
   ],
   "intellisense_render": 1
 }

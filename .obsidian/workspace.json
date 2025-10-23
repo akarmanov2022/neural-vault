@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -181,11 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a608bf6ba3baef0",
+  "active": "834df7b5575136b8",
   "lastOpenFiles": [
-    "templates/202510231229 – null.md",
-    "01 fleeting notes/202510231222 – Тестовая заметка.md",
+    "templates/zettel-template.md",
+    "01 fleeting notes/202510231231 – цукываыва.md",
     "homepage.md",
+    "01 fleeting notes/202510231222 – Тестовая заметка.md",
     "templates/Untitled.md",
     "03 literature notes",
     "202510211130 – test.md",
