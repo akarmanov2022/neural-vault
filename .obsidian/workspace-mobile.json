@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homepage.md",
+                "file": "01 fleeting notes/202510231234 – Test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "202510231234 – Test"
             }
           }
         ]
@@ -154,6 +154,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "homepage.md"
+    "templates/zettel-template.md",
+    "01 fleeting notes/202510231234 – Test.md",
+    "homepage.md",
+    "01 fleeting notes/202510231234 – null.md"
   ]
 }
