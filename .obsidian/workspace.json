@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homepage.md",
-                "mode": "preview",
+                "file": "01 fleeting notes/202510231234 – Test.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "202510231234 – Test"
             }
           }
         ]
@@ -181,11 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a608bf6ba3baef0",
+  "active": "7a1f250b42c2976c",
   "lastOpenFiles": [
+    "04 daily notes",
+    "01 fleeting notes/202510241024 – Тест.md",
+    "01 fleeting notes/202510231234 – Test.md",
+    "homepage.md",
     "templates/zettel-template.md",
     "01 fleeting notes/202510231234 – null.md",
-    "homepage.md",
     "01 fleeting notes/Untitled.md",
     "01 fleeting notes/202510231231 – цукываыва.md",
     "01 fleeting notes/202510231222 – Тестовая заметка.md",
