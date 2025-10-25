@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 fleeting notes/202510231234 – Test.md",
+                "file": "01 fleeting notes/202510251533 – Test 123.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "202510231234 – Test"
+              "title": "202510251533 – Test 123"
             }
           }
         ]
@@ -142,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homepage.md",
+                "file": "01 fleeting notes/202510251533 – Test 123.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of homepage"
+              "title": "Outline of 202510251533 – Test 123"
             }
           },
           {
@@ -162,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,15 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a1f250b42c2976c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 fleeting notes/202510231234 – Test.md",
+    "01 fleeting notes/202510251533 – Test 123.md",
+    "homepage.md",
     "04 daily notes",
     "01 fleeting notes/202510241024 – Тест.md",
-    "01 fleeting notes/202510231234 – Test.md",
-    "homepage.md",
     "templates/zettel-template.md",
     "01 fleeting notes/202510231234 – null.md",
-    "01 fleeting notes/Untitled.md",
     "01 fleeting notes/202510231231 – цукываыва.md",
     "01 fleeting notes/202510231222 – Тестовая заметка.md",
     "templates/Untitled.md",
