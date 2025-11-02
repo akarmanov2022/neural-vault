@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 fleeting notes/202510231234 – Test.md",
+                "file": "202510302233 – Идеи подарков маме.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "202510231234 – Test"
+              "title": "202510302233 – Идеи подарков маме"
             }
           }
         ]
@@ -154,9 +164,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "templates/zettel-template.md",
-    "01 fleeting notes/202510231234 – Test.md",
     "homepage.md",
+    "202510302233 – Идеи подарков маме.md",
+    "daily notes",
+    "02 permanent notes/202510270919 – Книги, которые хочу прочитать.md",
+    "01 fleeting notes/202510271725 – Как получить радость от написания кода.md",
+    "01 fleeting notes/202510231234 – Test.md",
+    "templates/zettel-template.md",
     "01 fleeting notes/202510231234 – null.md"
   ]
 }

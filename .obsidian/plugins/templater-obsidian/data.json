@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01 fleeting notes",
-      "template": "templates/zettel-template.md"
+      "folder": "/",
+      "template": "templates/zettel-template-title.md"
     }
   ],
   "enable_file_templates": false,
