@@ -3,5 +3,6 @@
   "templater-obsidian",
   "homepage",
   "obsidian-git",
-  "buttons"
+  "buttons",
+  "obsidian-zotero-desktop-connector"
 ]

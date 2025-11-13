@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f1017039c65d1c5",
@@ -154,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202511030915 – Модели обмена PULL и PUSH.md",
+                "file": "homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202511030915 – Модели обмена PULL и PUSH"
+              "title": "Outline of homepage"
             }
           },
           {
@@ -173,12 +174,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +197,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "202511030915 – Модели обмена PULL и PUSH.md",
     "homepage.md",
+    "202511030914 – Стандарт Reactive Streams.md",
+    "202511030915 – Модели обмена PULL и PUSH.md",
     "202511021144 – Книга Hands-on reactive programming in Spring 5.md",
     "literature",
     "attachments/Screenshot 2025-11-03 at 09.20.04.png",
-    "202511030914 – Стандарт Reactive Streams.md",
     "202511021125 – Реактивное программирование в Spring.md",
     "202510302233 – Идеи подарков маме.md",
     "202511021116 – Как шаблон Наблюдатель связан с реактивным программированием.md",

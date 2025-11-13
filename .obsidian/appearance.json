@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Roboto",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "translucency": true
+  "translucency": true,
+  "accentColor": ""
 }
