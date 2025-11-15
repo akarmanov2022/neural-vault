@@ -4,5 +4,6 @@
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "translucency": true,
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true
 }
