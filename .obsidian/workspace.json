@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "533fe74dcc6a83e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202511221055 – Учетная карточка привычек.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202511221055 – Учетная карточка привычек"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +221,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "533fe74dcc6a83e2",
   "lastOpenFiles": [
     "homepage.md",
+    "202511221055 – Учетная карточка привычек.md",
+    "202511221055 – Untitled.md",
     "202511030914 – Стандарт Reactive Streams.md",
     "202511030915 – Модели обмена PULL и PUSH.md",
     "202511021144 – Книга Hands-on reactive programming in Spring 5.md",
@@ -227,7 +255,6 @@
     "03 literature notes",
     "202510211130 – test.md",
     "02 permanent notes",
-    "Welcome.md",
     "01 fleeting notes",
     "attachments",
     "templates"
