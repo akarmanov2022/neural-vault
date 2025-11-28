@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
-          },
-          {
-            "id": "533fe74dcc6a83e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202511221055 – Учетная карточка привычек.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202511221055 – Учетная карточка привычек"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 429.5
   },
   "right": {
     "id": "6f1017039c65d1c5",
@@ -220,13 +194,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "533fe74dcc6a83e2",
+  "active": "7a1f250b42c2976c",
   "lastOpenFiles": [
+    "templates/zettel-template-title.md",
+    "202511270826 – Преимущества трекера привычек.md",
+    "202511281810 – Что почитать.md",
     "homepage.md",
+    "202511030915 – Модели обмена PULL и PUSH.md",
+    "202511221103 – Книга \"Атомные привычки\".md",
     "202511221055 – Учетная карточка привычек.md",
     "202511221055 – Untitled.md",
     "202511030914 – Стандарт Reactive Streams.md",
-    "202511030915 – Модели обмена PULL и PUSH.md",
     "202511021144 – Книга Hands-on reactive programming in Spring 5.md",
     "literature",
     "attachments/Screenshot 2025-11-03 at 09.20.04.png",
@@ -241,7 +219,6 @@
     "03 literature notes/202510270924 – Книга \"Гроза\" (пьеса) – Николай Островский.md",
     "03 literature notes/202510270925 – Война и мир.md",
     "01 fleeting notes/202510271725 – Как получить радость от написания кода.md",
-    "templates/zettel-template-title.md",
     "templates/zettel-template.md",
     "01 fleeting notes/202510251533 – Test 123.md",
     "01 fleeting notes/202510231234 – Test.md",
@@ -249,10 +226,7 @@
     "01 fleeting notes/202510241024 – Тест.md",
     "01 fleeting notes/202510231234 – null.md",
     "01 fleeting notes/202510231231 – цукываыва.md",
-    "01 fleeting notes/202510231222 – Тестовая заметка.md",
-    "templates/Untitled.md",
     "03 literature notes",
-    "202510211130 – test.md",
     "02 permanent notes",
     "01 fleeting notes",
     "attachments",
