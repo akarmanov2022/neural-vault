@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "e966a70083d2a5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/202511281815 – 2025-11-28.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202511281815 – 2025-11-28"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +219,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7a1f250b42c2976c",
+  "active": "e966a70083d2a5f1",
   "lastOpenFiles": [
+    "homepage.md",
+    "daily notes/202511281815 – 2025-11-28.md",
     "templates/zettel-template-title.md",
     "202511270826 – Преимущества трекера привычек.md",
     "202511281810 – Что почитать.md",
-    "homepage.md",
     "202511030915 – Модели обмена PULL и PUSH.md",
     "202511221103 – Книга \"Атомные привычки\".md",
     "202511221055 – Учетная карточка привычек.md",
@@ -225,7 +251,6 @@
     "daily notes",
     "01 fleeting notes/202510241024 – Тест.md",
     "01 fleeting notes/202510231234 – null.md",
-    "01 fleeting notes/202510231231 – цукываыва.md",
     "03 literature notes",
     "02 permanent notes",
     "01 fleeting notes",
