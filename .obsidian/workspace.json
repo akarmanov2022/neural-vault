@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e966a70083d2a5f1",
+            "id": "77b28b6cdffdbada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/202511281815 – 2025-11-28.md",
+                "file": "202511292040 – Чем отличается Обгон от Опережения.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202511281815 – 2025-11-28"
+              "title": "202511292040 – Чем отличается Обгон от Опережения"
             }
           }
         ],
@@ -219,8 +219,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e966a70083d2a5f1",
+  "active": "77b28b6cdffdbada",
   "lastOpenFiles": [
+    "202511292040 – Чем отличается Обгон от Опережения.md",
     "homepage.md",
     "daily notes/202511281815 – 2025-11-28.md",
     "templates/zettel-template-title.md",
@@ -250,7 +251,6 @@
     "01 fleeting notes/202510231234 – Test.md",
     "daily notes",
     "01 fleeting notes/202510241024 – Тест.md",
-    "01 fleeting notes/202510231234 – null.md",
     "03 literature notes",
     "02 permanent notes",
     "01 fleeting notes",
