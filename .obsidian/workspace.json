@@ -34,31 +34,41 @@
             }
           },
           {
-            "id": "77b28b6cdffdbada",
+            "id": "145a68050259e94b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "202511292040 – Чем отличается Обгон от Опережения.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Тренировки по баскетболу.canvas",
+                "viewState": {
+                  "x": -338.20999999999987,
+                  "y": 313.56000000000006,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "202511292040 – Чем отличается Обгон от Опережения"
+              "icon": "lucide-layout-dashboard",
+              "title": "Тренировки по баскетболу"
+            }
+          },
+          {
+            "id": "481213dcc51d7da9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Тренировки по баскетболу.canvas",
+                "viewState": {
+                  "x": 176.2580919701632,
+                  "y": 820.4173973106073,
+                  "zoom": -0.797405447100906
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Тренировки по баскетболу"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 429.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f1017039c65d1c5",
@@ -203,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +231,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "77b28b6cdffdbada",
+  "active": "481213dcc51d7da9",
   "lastOpenFiles": [
-    "202511292040 – Чем отличается Обгон от Опережения.md",
+    "attachments/Pasted image 20251130140640.png",
+    "202511301318 – Тренировки по баскетболу.md",
     "homepage.md",
+    "Тренировки по баскетболу.canvas",
+    "202511301316 – Бизнес с мужиками.md",
+    "202511292112 – Понятия Остановка и Стоянка.md",
+    "202511292040 – Чем отличается Обгон от Опережения.md",
     "daily notes/202511281815 – 2025-11-28.md",
     "templates/zettel-template-title.md",
     "202511270826 – Преимущества трекера привычек.md",
@@ -246,11 +263,7 @@
     "03 literature notes/202510270924 – Книга \"Гроза\" (пьеса) – Николай Островский.md",
     "03 literature notes/202510270925 – Война и мир.md",
     "01 fleeting notes/202510271725 – Как получить радость от написания кода.md",
-    "templates/zettel-template.md",
-    "01 fleeting notes/202510251533 – Test 123.md",
-    "01 fleeting notes/202510231234 – Test.md",
     "daily notes",
-    "01 fleeting notes/202510241024 – Тест.md",
     "03 literature notes",
     "02 permanent notes",
     "01 fleeting notes",
