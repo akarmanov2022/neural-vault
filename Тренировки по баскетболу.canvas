@@ -1,22 +1,24 @@
 {
 	"nodes":[
-		{"id":"f9613a2dd7a4f491","x":-2920,"y":-220,"width":1360,"height":2125,"type":"group","label":"Кто куда"},
-		{"id":"08d0602f8e11cb96","type":"group","x":-2740,"y":925,"width":1160,"height":960,"color":"3","label":"Возможности"},
-		{"id":"af0786d29accb573","type":"group","x":-1350,"y":280,"width":1030,"height":660,"label":"Конкуренты"},
-		{"id":"9497f0b78c9a2682","type":"group","x":-2580,"y":585,"width":380,"height":221,"color":"4","label":"Цены"},
-		{"id":"6815604b41f7099c","type":"link","url":"https://tomsk.ktokyda.ru/our-events/basketbol","x":-1300,"y":340,"width":430,"height":580,"color":"2"},
-		{"id":"5be5a7de60d23b5f","type":"link","url":"https://vk.com/dinamika70","x":-792,"y":340,"width":432,"height":540,"color":"2"},
-		{"id":"cf763495017a4530","type":"file","file":"attachments/Pasted image 20251130140640.png","x":-2674,"y":1225,"width":680,"height":460},
-		{"id":"d702d61fc0411b13","type":"text","text":"- ЛК организатора\n\t- рейтинг\n\t- отзывы\n\t- организация событий\n\t\t- минимальное количество участников","x":-2670,"y":973,"width":360,"height":192},
-		{"id":"67c243982f2bb60d","type":"text","text":"Афиша событий","x":-2270,"y":973,"width":276,"height":50},
-		{"id":"eb356e1b4685c830","type":"text","text":"Продвижение событий","x":-2270,"y":1053,"width":276,"height":50},
-		{"id":"044ba7fae48ad041","type":"text","text":"- ЛК участника\n\t- рейтинг\n\t- отзывы\n\t- регистрация на события\n\t\t- оплата","x":-1950,"y":973,"width":330,"height":192},
-		{"id":"7604afba3d52a218","type":"text","text":"от 300 до 400 р. за занятие по баскетболу","x":-2560,"y":605,"width":338,"height":66},
-		{"id":"5535a387ed8fbaee","type":"text","text":"Комиссия для организаторов событий - ?","x":-2560,"y":713,"width":338,"height":72},
-		{"id":"1f44a67f22b19e08","x":-1950,"y":-122,"width":266,"height":164,"type":"text","text":"Целевая аудитория:\n\n- устанавливается организатором события\n"},
-		{"id":"0eea73857ad58c89","x":-80,"y":180,"width":900,"height":660,"type":"link","url":"https://vk.com/basketball70"},
-		{"id":"7481179c33564eae","type":"link","url":"https://pb.nalog.ru/company.html?token=5F14CF76FC54FE0D28F3389CA8A89FD513F2BC4894DFE90BC240FB44D2E4B261AD09B5B6E3BF38F67A3F6DA9EB771245","x":-2900,"y":-160,"width":820,"height":650},
-		{"id":"15641faee4775290","type":"file","file":"202511301318 – Тренировки по баскетболу.md","subpath":"#Тренировки по баскетболу","x":-840,"y":-140,"width":412,"height":200,"color":"1"}
+		{"id":"f9613a2dd7a4f491","type":"group","x":-2920,"y":-220,"width":1360,"height":2125,"label":"Кто куда"},
+		{"id":"af0786d29accb573","type":"group","x":-1350,"y":280,"width":1170,"height":840,"label":"Конкуренты"},
+		{"id":"08d0602f8e11cb96","type":"group","x":-2840,"y":960,"width":1140,"height":780,"color":"3","label":"Возможности"},
+		{"id":"9497f0b78c9a2682","type":"group","x":-2840,"y":600,"width":380,"height":221,"color":"4","label":"Цены"},
+		{"id":"5be5a7de60d23b5f","type":"link","url":"https://vk.com/dinamika70","x":-792,"y":340,"width":592,"height":780,"color":"2"},
+		{"id":"0eea73857ad58c89","type":"link","url":"https://vk.com/basketball70","x":-80,"y":180,"width":946,"height":660},
+		{"id":"15641faee4775290","type":"file","file":"202511301318 – Тренировки по баскетболу.md","subpath":"#Тренировки по баскетболу","x":-840,"y":-140,"width":412,"height":200,"color":"1"},
+		{"id":"0611c127c31f1566","type":"link","url":"https://pb.nalog.ru/company.html?token=732AD482004C1F659A01B4AA8CDC9F539BF76FB60C20425581BB52B464FFF63868C99374D20F6959B68348EA3B798410","x":-80,"y":920,"width":920,"height":712},
+		{"id":"6815604b41f7099c","type":"link","url":"https://tomsk.ktokyda.ru/our-events/basketbol","x":-1300,"y":340,"width":480,"height":680,"color":"2"},
+		{"id":"1f44a67f22b19e08","type":"text","text":"Целевая аудитория:\n- устанавливается организатором события\n- от 14 лет\n","x":-1950,"y":-122,"width":270,"height":182},
+		{"id":"67c243982f2bb60d","type":"text","text":"Афиша событий","x":-2370,"y":1008,"width":276,"height":50},
+		{"id":"eb356e1b4685c830","type":"text","text":"Продвижение событий","x":-2370,"y":1088,"width":276,"height":50},
+		{"id":"044ba7fae48ad041","type":"text","text":"- ЛК участника\n\t- рейтинг\n\t- отзывы\n\t- регистрация на события\n\t\t- оплата","x":-2050,"y":1008,"width":330,"height":192},
+		{"id":"d702d61fc0411b13","type":"text","text":"- ЛК организатора\n\t- рейтинг\n\t- отзывы\n\t- организация событий\n\t\t- минимальное количество участников","x":-2770,"y":1008,"width":360,"height":192},
+		{"id":"7604afba3d52a218","type":"text","text":"от 300 до 400 р. за занятие по баскетболу","x":-2820,"y":620,"width":338,"height":66},
+		{"id":"5535a387ed8fbaee","type":"text","text":"Комиссия для организаторов событий - ?","x":-2820,"y":728,"width":338,"height":72},
+		{"id":"cf763495017a4530","type":"file","file":"attachments/Pasted image 20251130140640.png","x":-2820,"y":1260,"width":674,"height":456},
+		{"id":"134264df18ff153d","type":"text","text":"Корпоративный спорт и фитнес","x":-2050,"y":1260,"width":270,"height":80},
+		{"id":"7481179c33564eae","type":"link","url":"https://pb.nalog.ru/company.html?token=5F14CF76FC54FE0D28F3389CA8A89FD513F2BC4894DFE90BC240FB44D2E4B261AD09B5B6E3BF38F67A3F6DA9EB771245","x":-2840,"y":-140,"width":820,"height":650}
 	],
 	"edges":[
 		{"id":"635eacb729cbd294","fromNode":"6815604b41f7099c","fromSide":"left","toNode":"08d0602f8e11cb96","toSide":"top"},
@@ -24,6 +26,7 @@
 		{"id":"68478f35073ba015","fromNode":"6815604b41f7099c","fromSide":"left","toNode":"9497f0b78c9a2682","toSide":"top"},
 		{"id":"96f29906125c0cdf","fromNode":"6815604b41f7099c","fromSide":"left","toNode":"7481179c33564eae","toSide":"right"},
 		{"id":"c8c891ca4a619bba","fromNode":"6815604b41f7099c","fromSide":"left","toNode":"1f44a67f22b19e08","toSide":"right"},
-		{"id":"0bf3e2c4dbe3259f","fromNode":"5be5a7de60d23b5f","fromSide":"right","toNode":"0eea73857ad58c89","toSide":"left"}
+		{"id":"0bf3e2c4dbe3259f","fromNode":"5be5a7de60d23b5f","fromSide":"right","toNode":"0eea73857ad58c89","toSide":"left"},
+		{"id":"5a151a77789cf093","fromNode":"5be5a7de60d23b5f","fromSide":"right","toNode":"0611c127c31f1566","toSide":"left"}
 	]
 }
