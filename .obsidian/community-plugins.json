@@ -4,5 +4,6 @@
   "homepage",
   "obsidian-git",
   "buttons",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "link-with-alias"
 ]

@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "1e17adea4d763261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202601040922 – Цели на 2026 год.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202601040922 – Цели на 2026 год"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +221,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1e17adea4d763261",
   "lastOpenFiles": [
+    "202601040922 – Цели на 2026 год.md",
     "homepage.md",
-    "202510302233 – Идеи подарков маме.md",
+    "202601040922 – null.md",
+    "202601012238 – Рекомендации по лечению кожи.md",
+    "daily notes/202512290048 – 2025-12-29.md",
+    "202512211510 – Проект \"Тренажер слепой печати\".md",
+    "202512211547 – Формулировка MVP.md",
+    "202512211544 – Untitled.md",
+    "202512102340 – Что подарить Илье.md",
     "Тренировки по баскетболу.canvas",
+    "202512211543 – Untitled.md",
+    "202510302233 – Идеи подарков маме.md",
     "attachments/Pasted image 20251130140640.png",
     "202511301318 – Тренировки по баскетболу.md",
     "202511301316 – Бизнес с мужиками.md",
@@ -219,15 +253,7 @@
     "literature",
     "attachments/Screenshot 2025-11-03 at 09.20.04.png",
     "202511021125 – Реактивное программирование в Spring.md",
-    "202511021116 – Как шаблон Наблюдатель связан с реактивным программированием.md",
-    "202511021303 – В чем отличие шаблонов Наблюдатель и Публикация-Подписка.md",
-    "202511021144 – Untitled.md",
     "attachments/Screenshot 2025-11-02 at 13.04.13.png",
-    "202511021133 – Идея Zettelkasten.md",
-    "02 permanent notes/202510270919 – Книги, которые хочу прочитать.md",
-    "03 literature notes/202510270924 – Книга \"Гроза\" (пьеса) – Николай Островский.md",
-    "03 literature notes/202510270925 – Война и мир.md",
-    "01 fleeting notes/202510271725 – Как получить радость от написания кода.md",
     "daily notes",
     "03 literature notes",
     "02 permanent notes",

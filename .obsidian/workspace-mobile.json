@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202510302233 – Идеи подарков маме.md",
-                "mode": "source",
+                "file": "202601012238 – Рекомендации по лечению кожи.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202510302233 – Идеи подарков маме"
+              "title": "202601012238 – Рекомендации по лечению кожи"
             }
           }
         ]
@@ -108,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "202511281810 – Что почитать.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,7 +167,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "homepage.md",
+    "202601012238 – Рекомендации по лечению кожи.md",
     "202510302233 – Идеи подарков маме.md",
+    "202511281810 – Что почитать.md",
     "daily notes",
     "02 permanent notes/202510270919 – Книги, которые хочу прочитать.md",
     "01 fleeting notes/202510271725 – Как получить радость от написания кода.md",
