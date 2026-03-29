@@ -6,7 +6,10 @@
   "attachmentFolderPath": "attachments",
   "userIgnoreFilters": [
     "attachments/",
-    "templates/"
+    "templates/",
+    "copilot/"
   ],
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden",
+  "promptDelete": false
 }

@@ -2,8 +2,12 @@
   "obsidian-outliner",
   "templater-obsidian",
   "homepage",
-  "obsidian-git",
   "buttons",
   "obsidian-zotero-desktop-connector",
-  "link-with-alias"
+  "link-with-alias",
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-minimal-settings",
+  "quickadd",
+  "obsidian-git"
 ]

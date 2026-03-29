@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "1e17adea4d763261",
+            "id": "7a70a53993f622ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202601040922 – Цели на 2026 год.md",
+                "file": "202511281810 – Что почитать.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202601040922 – Цели на 2026 год"
+              "title": "202511281810 – Что почитать"
             }
           }
         ],
@@ -180,23 +180,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homepage.md",
+                "file": "202511281810 – Что почитать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of homepage"
+              "title": "Outline of 202511281810 – Что почитать"
             }
           },
           {
-            "id": "9a608bf6ba3baef0",
+            "id": "a46bc092e55e51d9",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -204,61 +204,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 564.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "random-note:Open random note": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
-      "random-note:Open random note": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1e17adea4d763261",
+  "active": "7a70a53993f622ea",
   "lastOpenFiles": [
-    "202601040922 – Цели на 2026 год.md",
     "homepage.md",
-    "202601040922 – null.md",
-    "202601012238 – Рекомендации по лечению кожи.md",
-    "daily notes/202512290048 – 2025-12-29.md",
-    "202512211510 – Проект \"Тренажер слепой печати\".md",
-    "202512211547 – Формулировка MVP.md",
-    "202512211544 – Untitled.md",
-    "202512102340 – Что подарить Илье.md",
+    "202603262254 – null.md",
+    "Путешествия/Камчатка июль 2026.md",
+    "Путешествия",
+    "202603151630 – Тур на Камчатку 2026.md",
+    "202603090532 – \"Фауст\" Гёте.md",
     "Тренировки по баскетболу.canvas",
-    "202512211543 – Untitled.md",
+    "Automated Journals - OpenClaw Capabilities.md",
+    "202601120337 – Что посмотреть 2026.md",
+    "202601040922 – Цели на 2026 год.md",
+    "202601012238 – Рекомендации по лечению кожи.md",
     "202510302233 – Идеи подарков маме.md",
-    "attachments/Pasted image 20251130140640.png",
-    "202511301318 – Тренировки по баскетболу.md",
-    "202511301316 – Бизнес с мужиками.md",
-    "202511292112 – Понятия Остановка и Стоянка.md",
-    "202511292040 – Чем отличается Обгон от Опережения.md",
-    "daily notes/202511281815 – 2025-11-28.md",
-    "templates/zettel-template-title.md",
-    "202511270826 – Преимущества трекера привычек.md",
+    "templates/zettel-template.md",
+    "templates/project-template.md",
+    "templates/literature-template.md",
+    "templates/list-template.md",
     "202511281810 – Что почитать.md",
-    "202511030915 – Модели обмена PULL и PUSH.md",
-    "202511221103 – Книга \"Атомные привычки\".md",
-    "202511221055 – Учетная карточка привычек.md",
-    "202511221055 – Untitled.md",
-    "202511030914 – Стандарт Reactive Streams.md",
-    "202511021144 – Книга Hands-on reactive programming in Spring 5.md",
-    "literature",
+    "202512102340 – Что подарить Илье.md",
+    "auto-reports/202602172300 – Отчёт за день.md",
+    "OpenClaw Test Notes.md",
+    "daily-notes/auto/2026-02-15 - Автоматическая запись.md",
+    "daily-notes/auto/2026-02-15 - Automatic Notes Demo.md",
+    "daily-notes/auto",
+    "daily-notes",
+    "daily-notes-en/auto/2026-02-15 - Автоматическая запись.md",
+    "daily-notes-en/auto",
+    "daily-notes-en/202512290048 – 2025-12-29.md",
+    "daily-notes-en/202511281815 – 2025-11-28.md",
+    "daily-notes-en",
+    "daily-notes/202512290048 – 2025-12-29.md",
+    "daily-notes/202511281815 – 2025-11-28.md",
+    "Автоматические дневники - возможности OpenClaw.md",
+    "sistema/avtomaticheskie-dnevniki",
+    "sistema",
+    "copilot/memory",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
     "attachments/Screenshot 2025-11-03 at 09.20.04.png",
-    "202511021125 – Реактивное программирование в Spring.md",
-    "attachments/Screenshot 2025-11-02 at 13.04.13.png",
-    "daily notes",
-    "03 literature notes",
-    "02 permanent notes",
-    "01 fleeting notes",
-    "attachments",
-    "templates"
+    "attachments/Pasted image 20251130140640.png",
+    "attachments/Screenshot 2025-11-02 at 13.04.13.png"
   ]
 }

@@ -11,24 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202601012238 – Рекомендации по лечению кожи.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202601012238 – Рекомендации по лечению кожи"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -108,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "202511281810 – Что почитать.md",
+            "file": "Путешествия/Камчатка июль 2026.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,12 +133,24 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "d30e9bd7d267f1c0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -167,9 +165,13 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "homepage.md",
+    "Путешествия/Камчатка июль 2026.md",
+    "202511281810 – Что почитать.md",
+    "202602281044 – null.md",
+    "202512102340 – Что подарить Илье.md",
+    "202601120337 – Что посмотреть 2026.md",
     "202601012238 – Рекомендации по лечению кожи.md",
     "202510302233 – Идеи подарков маме.md",
-    "202511281810 – Что почитать.md",
     "daily notes",
     "02 permanent notes/202510270919 – Книги, которые хочу прочитать.md",
     "01 fleeting notes/202510271725 – Как получить радость от написания кода.md",
