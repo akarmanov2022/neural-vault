@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202511221055 – Учетная карточка привычек.md",
+                "file": "homepage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202511221055 – Учетная карточка привычек"
+              "title": "homepage"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "202511221055 – Учетная карточка привычек.md",
     "homepage.md",
     "Путешествия/Камчатка июль 2026.md",
     "202511281810 – Что почитать.md",

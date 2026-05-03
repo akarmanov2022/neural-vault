@@ -8,6 +8,7 @@ type: zettel
 tags: []
 aliases: []
 source: 
+processed_from: 
 created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
@@ -16,3 +17,5 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 
 ## Связана с
+
+- 

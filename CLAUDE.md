@@ -12,22 +12,30 @@ All notes follow the pattern: `YYYYMMDDHHmm – <Title>.md`
 
 The timestamp prefix is generated automatically by the Templater plugin. When creating notes manually, match this format exactly.
 
+## Note types and workflow
+
+Three-level workflow based on "How to Take Smart Notes":
+1. **Quick capture** → `inbox.md` (one bullet per thought via QuickAdd "⚡ Быстрая мысль")
+2. **Literature notes** (`type: literature`) — notes while reading, own words, with source
+3. **Permanent notes** (`type: zettel`) — atomic ideas, must have ≥1 link in "Связана с"
+
+Navigation hubs are `MOC — *.md` files (`type: moc`) — one per topic cluster.
+
 ## Frontmatter schema
 
-Every note has YAML frontmatter. Fields vary by note type:
-
-**zettel** (atomic idea note):
+**zettel** (atomic idea):
 ```yaml
 id: YYYYMMDDHHmmss
 type: zettel
 tags: []
 aliases: []
 source:
+processed_from:
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ```
 
-**literature** (book/article notes):
+**literature** (book/article):
 ```yaml
 id: YYYYMMDDHHmmss
 type: literature
@@ -47,29 +55,29 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ```
 
-**list**:
-```yaml
-id: YYYYMMDDHHmmss
-type: list
-tags: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-```
+**list**, **fleeting**, **daily**, **moc** — same pattern with corresponding `type:` value.
 
 ## Structure conventions
 
-- Each note ends with a `## Связана с` (Related to) section for wiki-style links to other notes.
+- Each note ends with `## Связана с` for wiki-style links. Every zettel must have ≥1 link here.
 - Attachments go in `attachments/`.
-- Templates live in `templates/` and are excluded from Obsidian's file index (`userIgnoreFilters`).
-- `templates/` and `attachments/` are also excluded from Obsidian search.
+- Templates live in `templates/` (excluded from Obsidian's file index).
+- Daily notes go in `daily-notes/` (format: `YYYY-MM-DD.md`).
+- `inbox.md` — persistent quick-capture target; process daily, delete processed lines.
+
+## Hotkeys (Mac)
+
+- `Cmd+Shift+F` — quick capture to inbox.md
+- `Cmd+N` — new zettel (via Templater)
+- `Cmd+Shift+S` — git push
 
 ## Git workflow
 
-Backups are managed by the **obsidian-git** plugin with commit message format: `vault backup: YYYY-MM-DD HH:mm:ss`. Manual commits should follow the same format.
+Auto-commit every 5 min, auto-push/pull every 10 min via obsidian-git. On iPhone: push manually before closing the app (Git ribbon → Push). Commit message format: `vault backup: YYYY-MM-DD HH:mm:ss`.
 
 ## Installed plugins (relevant to note structure)
 
-- **Templater** — powers all templates in `templates/`; use `zettel-template`, `literature-template`, `project-template`, or `list-template`
-- **QuickAdd** — macro-based note creation
-- **obsidian-git** — auto-backup to this git repo
-- **Zotero Desktop Connector** — literature notes may be linked to Zotero entries via `source:` field
+- **Templater** — powers all templates in `templates/`
+- **QuickAdd** — 5 commands: ⚡ Быстрая мысль (capture), ✏️ Новый Zettel, 📚 Литературная заметка, 🚀 Новый проект, 📋 Новый список
+- **obsidian-git** — auto-backup and sync Mac ↔ iPhone
+- **Zotero Desktop Connector** — literature notes linked via `source:` field

@@ -1,4 +1,13 @@
 {
+  "quickadd:choice:qa-fleeting": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
   "zk-prefixer": [
     {
       "modifiers": [

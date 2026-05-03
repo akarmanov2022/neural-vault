@@ -1,6 +1,24 @@
 {
   "choices": [
     {
+      "id": "qa-fleeting",
+      "name": "⚡ Быстрая мысль",
+      "type": "Capture",
+      "command": true,
+      "captureTo": "inbox.md",
+      "format": "- {{DATE:YYYY-MM-DD HH:mm}} {{VALUE}}",
+      "insertAfter": "",
+      "insertAtEnd": true,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "task": false,
+      "prepend": false,
+      "openFileInMode": "default"
+    },
+    {
       "id": "qa-zettel",
       "name": "✏️ Новый Zettel",
       "type": "Template",
