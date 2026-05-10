@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "96b7e4d55157befe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC — Чтение.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC — Чтение"
+            }
           }
         ]
       }
@@ -178,8 +202,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "202511221055 – Учетная карточка привычек.md",
+    "MOC — Чтение.md",
     "homepage.md",
+    "Untitled.md",
+    "202511221055 – Учетная карточка привычек.md",
     "Путешествия/Камчатка июль 2026.md",
     "202511281810 – Что почитать.md",
     "202602281044 – null.md",
