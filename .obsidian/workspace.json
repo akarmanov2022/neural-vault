@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
-          },
-          {
-            "id": "a3cbf83251618556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202601120337 – Что посмотреть 2026.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202601120337 – Что посмотреть 2026"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,12 +195,13 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Start/stop recording": false,
-      "zk-prefixer:Create new unique note": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a3cbf83251618556",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "homepage.md",
+    "202601120337 – Что посмотреть 2026.md",
     "202601040922 – Цели на 2026 год.md",
     "202601012238 – Рекомендации по лечению кожи.md",
     "202512211547 – Формулировка MVP.md",
@@ -235,10 +211,8 @@
     "202511292112 – Понятия Остановка и Стоянка.md",
     "202511292040 – Чем отличается Обгон от Опережения.md",
     "202511030915 – Модели обмена PULL и PUSH.md",
-    "homepage.md",
     "Untitled.md",
     "inbox.md",
-    "202601120337 – Что посмотреть 2026.md",
     "202511281810 – Что почитать.md",
     "202603262254 – null.md",
     "Путешествия/Камчатка июль 2026.md",
