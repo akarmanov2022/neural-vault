@@ -17,6 +17,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+  "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
@@ -34,6 +35,11 @@
   "authorInHistoryView": "initials",
   "dateInHistoryView": true,
   "diffStyle": "split",
+  "hunks": {
+    "showSigns": false,
+    "hunkCommands": false,
+    "statusBar": "disabled"
+  },
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
