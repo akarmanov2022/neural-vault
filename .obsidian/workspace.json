@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "homepage"
             }
+          },
+          {
+            "id": "313ec814f193f01a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202605171816 – LeetCode 19 – Remove Nth Node From End of List.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202605171816 – LeetCode 19 – Remove Nth Node From End of List"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 564.5
+    "width": 564.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +232,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "313ec814f193f01a",
   "lastOpenFiles": [
+    "202605170001 – LeetCode 1 – Two Sum.md",
+    "202605171816 – LeetCode 19 – Remove Nth Node From End of List.md",
+    "MOC — LeetCode.md",
     "homepage.md",
     "templates/leetcode-template.md",
-    "MOC — LeetCode.md",
-    "202605170001 – LeetCode 1 – Two Sum.md",
     "Untitled.md",
     "202601120337 – Что посмотреть 2026.md",
     "202601040922 – Цели на 2026 год.md",
@@ -235,7 +262,6 @@
     "202510302233 – Идеи подарков маме.md",
     "templates/zettel-template.md",
     "templates/project-template.md",
-    "templates/literature-template.md",
     "daily-notes/auto",
     "daily-notes",
     "daily-notes-en/auto",
